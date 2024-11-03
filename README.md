@@ -1,2 +1,2 @@
 # UAV-STD
-Air-to-air UAV small target detection
+This is an air-to-air UAV small target detection project.
