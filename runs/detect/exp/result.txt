@@ -1,1 +1,0 @@
-image 1/1 C:\Users\xiaozuo\Desktop\ex_result\code\UAV-STD\test_images\0104134.jpg: 384x640 1 UAV, 79.6ms
